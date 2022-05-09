@@ -120,45 +120,45 @@ local defaults = {
       bg = black2,
    },
 
-   -- Telescope
-   TelescopeBorder = {
-      fg = darker_black,
-      bg = darker_black,
-   },
+   -- -- Telescope
+   -- TelescopeBorder = {
+   --    fg = darker_black,
+   --    bg = darker_black,
+   -- },
 
-   TelescopePromptBorder = {
-      fg = black2,
-      bg = black2,
-   },
+   -- TelescopePromptBorder = {
+   --    fg = black2,
+   --    bg = black2,
+   -- },
 
-   TelescopePromptNormal = {
-      fg = white,
-      bg = black2,
-   },
+   -- TelescopePromptNormal = {
+   --    fg = white,
+   --    bg = black2,
+   -- },
 
-   TelescopePromptPrefix = {
-      fg = red,
-      bg = black2,
-   },
+   -- TelescopePromptPrefix = {
+   --    fg = red,
+   --    bg = black2,
+   -- },
 
-   TelescopeNormal = { bg = darker_black },
+   -- TelescopeNormal = { bg = darker_black },
 
-   TelescopePreviewTitle = {
-      fg = black,
-      bg = green,
-   },
+   -- TelescopePreviewTitle = {
+   --    fg = black,
+   --    bg = green,
+   -- },
 
-   TelescopePromptTitle = {
-      fg = black,
-      bg = red,
-   },
+   -- TelescopePromptTitle = {
+   --    fg = black,
+   --    bg = red,
+   -- },
 
-   TelescopeResultsTitle = {
-      fg = darker_black,
-      bg = darker_black,
-   },
+   -- TelescopeResultsTitle = {
+   --    fg = darker_black,
+   --    bg = darker_black,
+   -- },
 
-   TelescopeSelection = { bg = black2 },
+   -- TelescopeSelection = { bg = black2 },
 }
 
 if ui.transparency then
