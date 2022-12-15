@@ -19,8 +19,8 @@ return {
    },
 
    Error = {
-      fg = theme.base00,
-      bg = theme.base08,
+      fg = theme.base08,
+      sp = "none",
    },
 
    ErrorMsg = {
